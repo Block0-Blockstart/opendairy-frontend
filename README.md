@@ -33,7 +33,7 @@ Use your favorite SSH tool to access your server instance.
 A. **Build the image directly from the Git repo**
 
 ```sh
-sudo docker build -t opendairy-frontend:latest https://github.com/block0-io/opendairy-api.git
+sudo docker build -t opendairy-frontend:latest https://github.com/Block0-Blockstart/opendairy-frontend.git
 ```
 
 B. **Aternative: copy the repo**
